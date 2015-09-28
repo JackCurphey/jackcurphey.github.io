@@ -7,8 +7,9 @@ color:Green;
 }
 
 div {
-border:100px ridge black;
+border:ridge;
 border-radius: 5px;
 height:100px;
 legnth:200px;
+color:#FF0066;
 }
