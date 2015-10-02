@@ -1,6 +1,7 @@
 h1{
 text-align:center;
-color:Green;
+color:White;
+font-family: Impact;
 
 
 
@@ -11,6 +12,6 @@ border:groove #708090;
 border-radius: 5px;
 height:120px;
 width:250px;
-margin: 0 auto
+margin: 0 auto;
 
 }
