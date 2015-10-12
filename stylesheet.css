@@ -5,8 +5,15 @@ font-family: Impact;
 
 
 
-}
 
+}
+h1:hover {
+
+font-weight: bold;
+
+
+  
+}
 div {
 border:groove #708090;
 border-radius: 5px;
