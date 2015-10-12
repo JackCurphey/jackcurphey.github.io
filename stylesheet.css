@@ -10,9 +10,9 @@ font-family: Impact;
 h1:hover {
 
 font-weight: bold;
+color: red;
 
 
-  
 }
 div {
 border:groove #708090;
