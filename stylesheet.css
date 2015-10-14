@@ -11,7 +11,7 @@ text-align: center;
 }
 h1:hover{
 
-font-size: 38px;
+font-size: 36px;
 color: red;
 text-decoration: none;
 
@@ -24,5 +24,12 @@ height:145px;
 width:250px;
 margin: auto;
 margin-top: 50px
+
+}
+span {
+
+font-weight: bolder;
+
+
 
 }
