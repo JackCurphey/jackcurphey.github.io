@@ -33,12 +33,8 @@ font-weight: bolder;
 
 
 }
-#div_background {
-background-color: #B2B2B2;
+body {
+background-position: fixed;
 
-
-}
-.background {
-position: fixed;
 
 }
