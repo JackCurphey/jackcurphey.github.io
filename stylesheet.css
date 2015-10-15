@@ -1,5 +1,5 @@
 h1{
-color:#1A1A1A;
+color:#CCCCCC;
 font-family:Impact;
 font-size: 36px;
 text-decoration: none;
@@ -36,5 +36,9 @@ font-weight: bolder;
 #div_background {
 background-color: #B2B2B2;
 
+
+}
+.background {
+position: fixed;
 
 }
