@@ -46,10 +46,7 @@ background-position: fixed;
 }
 #navbar {
 	position:fixed;
-	margin-top:-10px;
-
-	left:50%;
-	margin-left:-254px;
+	margin: auto
 }
 
 
