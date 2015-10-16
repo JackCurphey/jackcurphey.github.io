@@ -52,17 +52,11 @@ background-position: fixed;
 	margin-left:-254px;
 }
 
-#header {
-	position: relative;
-	top: -10px;
-	background-color: #3c4543;
-	border-top-left-radius: 15px;
-	border-top-right-radius: 15px;
-}
+
 ul{
 	list-style-type: none;
 	position: fixed;
-	margin: -10px;
+	margin: auto;
 }
 
 li {
