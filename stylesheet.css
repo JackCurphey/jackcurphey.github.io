@@ -29,12 +29,12 @@ div {
 height:145px;
 width:250px;
 margin: auto;
-margin-top: 50px
+margin-top: 50px;
 
 }
 span {
 
-font-weight: bolder;
+font-size: 37px;
 
 
 
@@ -47,7 +47,7 @@ background-position: fixed;
 #navbar {
 	position:fixed;
 	margin: auto;
-  float:center:
+  float:center;
 }
 
 
