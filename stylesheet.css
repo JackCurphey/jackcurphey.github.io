@@ -16,8 +16,13 @@ text-align: center;
 
 }
 h3{
-color: #2a2a2a;
+color: #99FF00;
 
+
+
+}
+h5{
+color:#2a2a2a;
 
 
 }
@@ -53,7 +58,7 @@ background-position: fixed;
 #navbar {
 	position:fixed;
 
-  float:center;
+  float:right;
 }
 
 
